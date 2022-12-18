@@ -2,4 +2,4 @@
 This repository contains necessary files for codes relating to Data Science
 
 # Contents
-- [Recommendation Systems](./RecommendationSystems)
+- [Book Recommendation System](./RecommendationSystems)
